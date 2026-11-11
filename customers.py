@@ -1,3 +1,13 @@
+#ISM2411 Lab 11
+
+#REFLECTION
+
+#1. I use brackets when the key needs to be inputed, like when placing a customers tier. If the bracket is missing then the error will tell me that something is wrong. If the key does not exist I would use .get(), for example if there is no email or phone number so thr program does not crash. My rule of thumb would be to use brackets iff they exist and use .get() if they do not.
+#2. This reminded me of adding up totals with a function in categroires on Excel. This python method works way better because you can take huge datasets and have it run effectively and quicker. I can also use the same code on different data so that is helpful.
+
+
+
+
 #EXERCISE 1
 
 print("=== Exercise 1: One customer ===")
